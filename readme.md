@@ -5,7 +5,7 @@ This is a repository for Trinity Education students to interact with mentors for
 ## Content
 
 * Interaction for this module will be for weeks 1, 2, and 4 only as they involve code.
-x
+
 ## Asking a question
 
 1) Check the week's readme.md file
