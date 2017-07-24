@@ -10,13 +10,13 @@ This is a repository for Trinity Education students to interact with mentors for
 
 ### Q & A Workflow
 
-1) Check the week's readme.md file
+#### 1) Check the week's readme.md file
 
 * You can do this by clicking on the folder in the repository. The readme will automatically display. I.e. https://github.com/TrinityEdu/DigiNinja/tree/master/week-1
 * This readme should contain FAQs
 * If the Question is answered there, you need not go further.
 
-2) If you have a question, please open a Github issue.
+#### 2) If you have a question, please open a Github issue.
 
 * The mentor will look at the question
 * The mentor may chose to interact with the student in the issue by commenting back and forth
